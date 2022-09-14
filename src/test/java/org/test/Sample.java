@@ -12,6 +12,7 @@ public class Sample {
 
 		System.out.println("Test 6");
 		System.out.println("Test 7");
+		System.out.println("test 8");
 	}
 
 }
